@@ -1,0 +1,7 @@
+Terdapat Pangsa Pasar terkait Kebutuhan IoT for PLC yakni Indstri
+PLC Brand :
+- Mitsubishi (type Q,QnA,FX,L,R)
+  Methode :
+    1. You can use 1S or 3S frame. He use VB.Net for the interface App on PC 
+      (https://www.youtube.com/watch?v=fWazy6QSAek&t=55s , Get Data in PC From PLC using VB.Net,Make your own scada)
+    2. You can use MX Component to get data from plc
